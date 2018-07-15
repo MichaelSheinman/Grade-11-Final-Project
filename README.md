@@ -4,11 +4,11 @@ This is a text-based casino site simulation using email, text files, and other p
 Game features:
 1. Registering: signing up, entering information, after this part anytime you run the program the progress will be saved.
 2. Logging in: You recieve $1000 to start and may bet on any of the following games:
-  *Blackjack
-  *Roulette
-  *Flaming Hot Slot Machine
-  *Slot Machine
-  *Dices
+  1.Blackjack
+  2.Roulette
+  3.Flaming Hot Slot Machine
+  4.Slot Machine
+  5.Dices
 3.Leaderboard: The program will store the top players into a leaderboard
 4.Email notifications: The program will send email notifications regarding your progress, sign up notifications, and losing.
 5. Losing: If you run out of money, the program will automtically kick you out, and your account will be deleted.
