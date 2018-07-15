@@ -13,5 +13,6 @@ Game features:
 *Email notifications: The program will send email notifications regarding your progress, sign up notifications, and losing.
 *Losing: If you run out of money, the program will automtically kick you out, and your account will be deleted.
 
-## Flow chart
+## Game flow:
 ![alt text](https://lh5.googleusercontent.com/SfaLrqYubdq4HtAIy9FrVpCRWJsOyt3W8PhP820gsH2heCxiDSQVy_sDvvqJdK8IPE2FDpUoY8p33otbALRJ5orMlENEf6l5KWk-l8IGwe1eV08woiWCjZUyvKvn9E7mej6QFEbd "Logo Title Text 1")
+![alt text](https://lh4.googleusercontent.com/-KxGna-p0CFizjOZRLyjLl0rTRn9bT6vlPgXzGapKX8GniKWrrm3AtYMN_sMnxFSAnc87jcJm2XSNididhPCeW00Q3owLyX15ARwTORlOTa6DpYI_MnLCqHvxhWQ8GTxSHRoyI0I "Logo Title Text 1")
