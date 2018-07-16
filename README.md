@@ -1,7 +1,7 @@
 # Grade-11-Final-Project
 This is a text-based casino site simulation using email, text files, and other python concepts. 
 
-Game features:
+## Game features:
 1. Registering: signing up, entering information, after this part anytime you run the program the progress will be saved.
 2. Logging in: You recieve $1000 to start and may bet on any of the following games:
       1. BlackJack
