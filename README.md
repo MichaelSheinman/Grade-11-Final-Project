@@ -16,6 +16,12 @@ This is a text-based casino site simulation using email, text files, and other p
 
 5. Losing: If you run out of money, the program will automtically kick you out, and your account will be deleted.
 
+## Using the code 
+
+To use the code, save the `casion.py` to a python editor such as Pycharm along with the `Casino.png` image. 
+
+
 ## Game flow:
 ![alt text](https://lh5.googleusercontent.com/SfaLrqYubdq4HtAIy9FrVpCRWJsOyt3W8PhP820gsH2heCxiDSQVy_sDvvqJdK8IPE2FDpUoY8p33otbALRJ5orMlENEf6l5KWk-l8IGwe1eV08woiWCjZUyvKvn9E7mej6QFEbd "Logo Title Text 1")
 ![alt text](https://lh4.googleusercontent.com/-KxGna-p0CFizjOZRLyjLl0rTRn9bT6vlPgXzGapKX8GniKWrrm3AtYMN_sMnxFSAnc87jcJm2XSNididhPCeW00Q3owLyX15ARwTORlOTa6DpYI_MnLCqHvxhWQ8GTxSHRoyI0I "Logo Title Text 1")
+
