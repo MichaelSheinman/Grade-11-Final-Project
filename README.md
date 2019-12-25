@@ -27,3 +27,6 @@ To use the code, save the `casion.py` to a python editor such as Pycharm along w
 
 ## Game Example
 ![alt text](casino.png)
+
+## Contributors
+- Jake Graef (project teamate) 
